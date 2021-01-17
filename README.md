@@ -1,0 +1,1 @@
+A page for payment details for school fees
